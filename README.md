@@ -61,7 +61,11 @@ RAG-GPT is a Retrieval-Augmented Generation (RAG) chatbot that allows users to u
 💼 Summarize resumes or reports
 
 🧪 Research papers Q&A
+## 🔗 ✨ Live Demo
 
+🚀 Try the app here: 
+
+            https://exwyhkjn4dndeitm5yjwt4.streamlit.app/
 
 
 
