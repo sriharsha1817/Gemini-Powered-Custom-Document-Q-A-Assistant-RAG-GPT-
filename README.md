@@ -27,8 +27,8 @@ RAG-GPT is a Retrieval-Augmented Generation (RAG) chatbot that allows users to u
 📁 Project Structure
 
     RAG-GPT/
-    ├── RAG/
-    │   └── app.py                # Main Streamlit app
+    |
+    │── app.py                # Main Streamlit app
     ├── requirements.txt          # Required Python libraries
     └── README.md                 # This file
 
